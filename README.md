@@ -1,6 +1,7 @@
 # PPageRank-PathSim
 
 ##Introduction
+
 This is a data mining project, in which Personalized PageRank and PathSim
 are implemented and are evaluated on a 4-areas DBLP dataset. 
 
